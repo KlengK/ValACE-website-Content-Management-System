@@ -1,4 +1,4 @@
-# ValACE Digital Ecosystem: User Portal & CMS
+# ValACE Digital Ecosystem: User Portal & CMS (FrontEnd)
 
 ![Framework](https://img.shields.io/badge/Frontend-React_18-blue)
 ![Build Tool](https://img.shields.io/badge/Build-Vite-purple)
